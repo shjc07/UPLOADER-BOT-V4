@@ -22,8 +22,8 @@ if __name__ == "__main__" :
     plugins = dict(root="plugins")
     Ntbots = Ntbots(
         "UploadLinkToFileBot",
-        bot_token=Config.BOT_TOKEN,
-        api_id=Config.API_ID,
+        bot_token=AAExPAnSbKfhyj63fV0MOcT8ci1kxUUEApA,
+        api_id=Config.6160526169,
         api_hash=Config.API_HASH,
         plugins=plugins)
 
